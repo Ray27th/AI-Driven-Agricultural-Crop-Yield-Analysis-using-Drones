@@ -1,2 +1,2 @@
 # dragonfruit-detection-drone
-A Personal Project collaborating with a dragonfruit farm in Vietnam to estimate the yield of their harvests. Integrating my Artificial Intelligence skills, Aviation interest in drone systems and Vietnamese heritage as a Vietnamese-Singaporean
+A Passion Project in Vietnam, using a DJI Drone, integrated with a Yolo V11 Model custom-trained to identify dragonfruits to add them to a total tally count to help farmers estimate their crop yield
