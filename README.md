@@ -1,6 +1,6 @@
 # 🚁 AI Crop Yeild Analysis using DJI Tello Drone 🤖
 
-Check out my youtube vlog on the whole process: youtube_link 📺
+Check out my youtube vlog on the whole process: [youtube_link](https://youtu.be/Wq9ggWbU_k0) 📺
 
 
 ## 🌟 Features
