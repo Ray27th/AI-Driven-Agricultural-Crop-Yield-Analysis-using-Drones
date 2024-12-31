@@ -1,4 +1,4 @@
-# 🚁 DJI Tello Drone Object Detection Project 🤖
+# 🚁 AI Driven Crop Yeild Analysis for Vietnamese Farmers using DJI Tello Drone 🤖
 
 Passion Project: Automating dragon fruit crop yeild analysis for Vietnamese farmers. Combines DJI Tello drone control with real-time object detection using custom trained YOLO (You Only Look Once) model.
 
