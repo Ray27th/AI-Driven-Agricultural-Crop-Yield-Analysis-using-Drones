@@ -1,6 +1,7 @@
-# 🚁 AI Driven Crop Yeild Analysis for Vietnamese Farmers using DJI Tello Drone 🤖
+# 🚁 AI Driven Crop Yeild Analysis using DJI Tello Drone 🤖
 
-Passion Project: Automating dragon fruit crop yeild analysis for Vietnamese farmers. Combines DJI Tello drone control with real-time object detection using custom trained YOLO (You Only Look Once) model.
+Check out my youtube vlog on the whole process: <link> 📺
+
 
 ## 🌟 Features
 
