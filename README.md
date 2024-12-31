@@ -1,6 +1,6 @@
 # 🚁 DJI Tello Drone Object Detection Project 🤖
 
-An advanced computer vision project that combines DJI Tello drone control with real-time object detection using YOLO (You Only Look Once) model.
+Passion Project: Automating dragon fruit crop yeild analysis for Vietnamese farmers. Combines DJI Tello drone control with real-time object detection using custom trained YOLO (You Only Look Once) model.
 
 ## 🌟 Features
 
